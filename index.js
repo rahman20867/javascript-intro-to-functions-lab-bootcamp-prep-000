@@ -32,5 +32,4 @@ function sayHiToGrandma(string){
 
 
 
-
-shout("hello")
+sayHiToGrandma("I love you, Grandma.")
